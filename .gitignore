@@ -1,0 +1,11 @@
+# Build directories
+cmake-build-debug/
+
+# IDE
+.idea/
+*.user
+*.vs/
+
+# OS files
+*.DS_Store
+Thumbs.db
