@@ -8,6 +8,7 @@ Poznámky:
 
 ---
 
+
 ## Principy, využití a časová složitost
 
 ### Bellman-Ford
